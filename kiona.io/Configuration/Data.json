@@ -1,0 +1,9 @@
+{
+  "bot": {
+    "token": "NjQ4OTcyODI4MjcxNzA2MTMx.XeAeUA._mUYxn-JC-SXA6qRxwpAO96uMzA",
+    "prefix": "/"
+  },
+  "moderation": {
+   "filter": true
+  }
+}
